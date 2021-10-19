@@ -1,0 +1,4 @@
+yarl
+aiohttp
+bs4
+lxml
